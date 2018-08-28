@@ -1,6 +1,6 @@
 # swapi
 
-#Zero to Mastery challenge
+Zero to Mastery challenge
 
 'Your challenge is to use the Star Wars API.
 
